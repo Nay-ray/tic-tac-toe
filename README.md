@@ -11,6 +11,8 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 🔁 Restart game functionality
 
 
+
+
 🛠️ Tech Stack
 HTML5 – For structure
 
@@ -19,6 +21,8 @@ CSS3 – For styling and layout
 JavaScript – For game logic and interactivity
 
 📸 Preview
-<img width="520" height="693" alt="image" src="https://github.com/user-attachments/assets/a00f23d5-2d9e-4c93-b559-b975cd888d4e" />
+
+<img width="568" height="710" alt="image" src="https://github.com/user-attachments/assets/575fcc4e-9c30-4260-bb14-eb9db575a956" />
+
 
 # tic-tac-toe
