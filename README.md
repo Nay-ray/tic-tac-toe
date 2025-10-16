@@ -4,7 +4,7 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 🚀 Features
 🧠 Two-player game logic
 
-📱 Responsive layout for desktop and mobile
+📱 Responsive layout for desktop 
 
 🎨 Clean and intuitive user interface
 
