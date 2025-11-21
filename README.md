@@ -24,4 +24,4 @@ JavaScript – For game logic and interactivity
 📸 Preview
 <img width="520" height="693" alt="image" src="https://github.com/user-attachments/assets/a00f23d5-2d9e-4c93-b559-b975cd888d4e" />
 
-# tic-tac-toe
+
