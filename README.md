@@ -16,7 +16,6 @@
 
 🛠️Tech Stack
 HTML5 – For structure
-
 CSS3 – For styling and layout
 
 JavaScript – For game logic and interactivity
