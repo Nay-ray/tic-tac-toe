@@ -6,7 +6,6 @@
  🚀 Features
 🧠 Two-player game logic
 📱 Responsive layout for desktop 
-
 🎨 Clean and intuitive user interface
 
 🔁 Restart game functionality
