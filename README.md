@@ -1,7 +1,6 @@
 # tic-tac-toe
-
  🎮Tic Tac Toe Web Application
- A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript. This web-based game allows two players to play against each other in real-time on the same device. It's a fun project designed to demonstrate basic DOM manipulation, game logic, and responsive UI design.
+ A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript. This web-based game allows two players to play against each other in real-time on the same device. It's a fun project designed to  demonstrate basic DOM manipulation, game logic, and responsive UI design.
 
  🚀 Features
 🧠 Two-player game logic
