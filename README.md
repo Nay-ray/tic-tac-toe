@@ -9,7 +9,6 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 🎨 Clean and intuitive user interface
 🔁 Restart game functionality
 
-
 🛠️Tech Stack
 HTML5 – For structure
 CSS3 – For styling and layout
